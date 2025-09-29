@@ -26,9 +26,9 @@ const projects: Project[] = [
   {
     id: uuid(),
     title: 'Kponkius Me 🌍',
-    description: 'My Portfolio Website',
+    description: 'My Graphics Design Portfolio Website',
     github: 'https://github.com/akamshu',
-    live: 'https://kponkius-1-you1x.puter.site',
+    live: 'https://grafix-portfolio.vercel.app/',
     stack: 'React + TypeScript + SASS + TailwindCSS',
     isPrivate: true,
     isLive: true,
@@ -166,3 +166,4 @@ export default function Projects(props: Prop) {
     </div>
   );
 }
+
