@@ -22,7 +22,7 @@ export default function Resume(props: ResumeProp) {
           <h2>{resume.name}</h2>
           <div className="buttons">
             <a
-              href="AKAMSHU GABRIEL WEB CV.docx"
+              href="CV.docx"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -178,5 +178,6 @@ export default function Resume(props: ResumeProp) {
     </div>
   );
 }
+
 
 
